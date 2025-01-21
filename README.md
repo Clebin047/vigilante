@@ -4,8 +4,10 @@
 Olá, criei meu primeiro script gratuito para a comunidade FIVEMDEV.ORG, o objetivo desse script é para os donos de cidades disponibilizarem para seus jogadores comprar um (ou mais) VIGILANTE para seu ambiente, seja ele uma mansão privada ou até um local de facção.
 
 O que o script faz? Basicamente cria os guardas na coordenada informada e fazem o patrulhamento, eles ficam seguindo as coordenadas informadas e quando um jogador SEM PERMISSÃO chega na range informada, eles começam a atirar até o eliminar, se o invasor se afastar da range programada ou morrer, eles voltam pro patrulhamento. Caso tenha algum jogador com a permissão, eles não terão nenhuma reação de ataque. É um script de GUARDA (Video demonstrativo no fim da postagem)
+![image](https://github.com/user-attachments/assets/e31af89a-93c9-4d95-aaf0-0a3d48f745d8)
 
 O que o script tem de interessante?
+
 
 É possível escolher QUANTOS seguranças terá por grupo;
 Possível colocar várias coordenadas para onde eles devem ficar patrulhando;
@@ -30,8 +32,4 @@ Abaixo deixo um vídeo demonstrativo do sistema funcionando:
  
 https://www.youtube.com/watch?v=BLg7uBa5BlI
 
-
- 
-
-Senha para descompactar: fivemdev.org
 ​
